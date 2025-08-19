@@ -171,9 +171,23 @@ footer{
     width: 100%;
 }
 
+footer a span {
+  color: #000;
+  text-decoration: none; /* también sirve acá */
+}
+
+footer span:hover {
+  color: purple; /* opcional: cambia al pasar el mouse */
+}
+footer a:hover {
+  color: purple; /* opcional: cambia al pasar el mouse */
+}
+
+
 .logoInsta {
     width: 1.3rem;
 }
 .asis{
   margin-bottom: -10px;
 }
+
