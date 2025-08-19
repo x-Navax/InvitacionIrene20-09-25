@@ -52,14 +52,14 @@ footer {
 .time span {
   font-size: 2.8rem;  /* números grandes */
   font-weight: 300;
-  color: #b86f90;
+  color: #dacaad;
 }
 
 .label {
   font-size: 0.75rem;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #b86f90;
+  color: #dacaad;
   margin-top: 6px;
 }
 
@@ -107,7 +107,7 @@ footer {
 .pago {
   font-family: "Crimson Pro", serif;
   margin: 20px;
-  background-color:#b86f90;
+  background-color:#dacaad;
   font-size: 2rem;
 }
 
@@ -120,7 +120,7 @@ footer {
 .btn-copiar {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #fc3c92;
+  background-color: #ffda96;
   color: white;
   border: none;
   border-radius: 6px;
@@ -131,7 +131,7 @@ footer {
 }
 
 .btn-copiar:hover {
-  background-color: #fc3c92;
+  background-color: #ffda96;
 }
 
 #mensaje-copiado {
@@ -153,7 +153,7 @@ footer {
 .botonW {
     font-family: "Crimson Pro", serif;
     font-size: 2rem;
-    color: #b86f90;
+    color: #dacaad;
 }
 .wap{
     width: 5rem;
@@ -162,10 +162,10 @@ footer {
 .fraseFinal{
     font-family: "Crimson Pro", serif;
     font-size: 2rem;
-    color: #b86f90;
+    color: #dacaad;
 }
 footer{
-    background-color: #b86f90;
+    background-color: #dacaad;
     color: black;
     margin-top: 30px;
     width: 100%;
